@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 schinken1
+=======
+Hallo ich bin 10000 Jahre alt
+>>>>>>> origin/master
