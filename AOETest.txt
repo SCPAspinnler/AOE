@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Ich bin eine Wurst
+=======
+schinken1
+Hallo ich bin 10000 Jahre alt
+>>>>>>> origin/master
